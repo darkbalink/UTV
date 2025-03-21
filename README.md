@@ -20,4 +20,6 @@ The vehicle position with green text is the starting point and the position with
 </div>
 
 ### Closed-loop Control Vedio
+<div align=center>
 <img src="/assets/real_test.jpg" width="80%">
+</div>
