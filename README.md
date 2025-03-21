@@ -19,8 +19,8 @@ The vehicle position with green text is the starting point and the position with
   <img src="/assets/Map.jpg" width="50%">
 </div>
 
-### Closed-loop Control Vedio
-vedios should be uploaded to bilibil or youtube, and here refer to the url
+### Closed-loop Control Video
+videos should be uploaded to bilibil or youtube, and here refer to the url
 <div align=center>
 <img src="/assets/real_test.jpg" width="80%">
 </div>
