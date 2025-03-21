@@ -2,8 +2,7 @@
 repository for Stepping Beyond Labels: Unsupervised Cross-Domain Adaption for Visual End-to-End Model
 
 ## Image Translation by our method
-<img src="/assets/translation_ab.png" width="40%">
-<img src="/assets/translation_ba.png" width="40%">
+<img src="/assets/translation_ab.png" width="40%"> <img src="/assets/translation_ba.png" width="40%">
 
 ## Real Vehicle Deployment
 
