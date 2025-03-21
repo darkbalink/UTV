@@ -8,7 +8,7 @@ repository for Stepping Beyond Labels: Unsupervised Cross-Domain Adaption for Vi
 ## Real Vehicle Deployment
 
 ### Ros Archietecture
-![translation image](/assets/dongfeng ros.png)  
+![translation image](/assets/dongfeng_ros.png)  
 
 ### Map and route
 ![translation image](/assets/Map.jpg)  
