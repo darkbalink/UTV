@@ -10,7 +10,7 @@ repository for Stepping Beyond Labels: Unsupervised Cross-Domain Adaption for Vi
 <img src="/assets/dongfeng_ros.png" width="80%">
 
 ### Map and route
-<img src="/assets/Map.jpg" width="80%">
+<img src="/assets/Map.jpg" width="50%">
 
 ### Closed-loop Control Vedio
 ![translation image](/assets/real_test.jpg)  
