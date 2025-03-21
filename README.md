@@ -9,11 +9,15 @@ repository for Stepping Beyond Labels: Unsupervised Cross-Domain Adaption for Vi
 
 ### Ros Archietecture
 (some discriptions)
-<div align=center><img src="/assets/dongfeng_ros.png" width="80%">
+<div align=center>
+  <img src="/assets/dongfeng_ros.png" width="80%">
+</div>
 
 ### Map and route
-The vehicle position with green text is the starting point and the position with red text is destination. Yellow vehicles in the route are navigation points for algorithm. \
-<div align=center><img src="/assets/Map.jpg" width="50%">
+The vehicle position with green text is the starting point and the position with red text is destination. Yellow vehicles in the route are navigation points for algorithm. 
+<div align=center>
+  <img src="/assets/Map.jpg" width="50%">
+</div>
 
 ### Closed-loop Control Vedio
-![translation image](/assets/real_test.jpg)  
+<img src="/assets/real_test.jpg" width="80%">
